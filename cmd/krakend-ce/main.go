@@ -69,7 +69,7 @@ var aliases = map[string]string{
 
 	"github.com/devopsfaith/krakend-ratelimit/juju/router":    "qos/ratelimit/router",
 	"github.com/devopsfaith/krakend-ratelimit/juju/proxy":     "qos/ratelimit/proxy",
-	"github.com/devopsfaith/krakend-httpcache":                "qos/http-cache",
+	"github.com/usagifm/krakend-httpcache":                    "qos/http-cache",
 	"github.com/devopsfaith/krakend-circuitbreaker/gobreaker": "qos/circuit-breaker",
 
 	"github.com/devopsfaith/krakend-oauth2-clientcredentials": "auth/client-credentials",
