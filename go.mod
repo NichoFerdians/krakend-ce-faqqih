@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend-ce/v2
+module github.com/usagifm/krakend-ce-faqqih
 
 go 1.17
 

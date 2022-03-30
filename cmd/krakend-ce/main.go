@@ -9,11 +9,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	krakend "github.com/devopsfaith/krakend-ce/v2"
 	cmd "github.com/devopsfaith/krakend-cobra/v2"
 	flexibleconfig "github.com/devopsfaith/krakend-flexibleconfig/v2"
 	viper "github.com/devopsfaith/krakend-viper/v2"
 	"github.com/luraproject/lura/v2/config"
+	krakend "github.com/usagifm/krakend-ce-faqqih"
 )
 
 const (

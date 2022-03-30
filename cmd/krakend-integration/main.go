@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/devopsfaith/krakend-ce/v2/tests"
+	"github.com/usagifm/krakend-ce-faqqih/tests"
 )
 
 func main() {
