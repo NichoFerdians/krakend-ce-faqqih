@@ -20,7 +20,7 @@ import (
 	"github.com/luraproject/lura/v2/proxy"
 	"github.com/luraproject/lura/v2/transport/http/client"
 	httprequestexecutor "github.com/luraproject/lura/v2/transport/http/client/plugin"
-	httpcache "github.com/usagifm/krakend-httpcache/v2"
+	httpcache "github.com/NichoFerdians/krakend-httpcache/v2"
 )
 
 // NewBackendFactory creates a BackendFactory by stacking all the available middlewares:
